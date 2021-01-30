@@ -1,0 +1,9 @@
+#pragma once
+
+enum EnemyAnimationState {
+	ENEMY_IDLE_RIGHT,
+	ENEMY_IDLE_LEFT,
+	ENEMY_RUN_RIGHT,
+	ENEMY_RUN_LEFT,
+	NUM_OF_ENEMY_ANIMATION_STATES
+};
